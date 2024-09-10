@@ -21,5 +21,6 @@ Cada día he abordado un nuevo concepto o proyecto, añadiendo información y co
  - Dia 13: El Mayor de Tres Números.
  - Dia 14: Año Bisiesto.
  - Dia 15: Factorial.
+ - Dia 16: Cuerda de Palíndromo.
 
 A lo largo del avance diario subiré los días siguientes, agregando mas información al respecto.
