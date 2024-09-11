@@ -22,5 +22,6 @@ Cada día he abordado un nuevo concepto o proyecto, añadiendo información y co
  - Dia 14: Año Bisiesto.
  - Dia 15: Factorial.
  - Dia 16: Cuerda de Palíndromo.
+ - Dia 17: Número de Vocales en una Cadena.
 
 A lo largo del avance diario subiré los días siguientes, agregando mas información al respecto.
