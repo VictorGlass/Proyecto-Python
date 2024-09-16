@@ -25,5 +25,6 @@ Cada día he abordado un nuevo concepto o proyecto, añadiendo información y co
  - Dia 17: Número de Vocales en una Cadena.
  - Dia 18: Lista de Sumas.
  - Dia 19: Máximo en la lista.
+ - Dia 20: Secuencia de Fibonacci.
 
 A lo largo del avance diario subiré los días siguientes, agregando mas información al respecto.
