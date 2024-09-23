@@ -35,5 +35,6 @@ Cada día he abordado un nuevo concepto o proyecto, añadiendo información y co
  - Dia 19: Máximo en la lista.
  - Dia 20: Secuencia de Fibonacci.
  - Dia 21: Lista Inversa.
+ - Dia 22: Lista de Duplicados.
 
 A lo largo del avance diario subiré los días siguientes, agregando mas información al respecto.
