@@ -54,13 +54,7 @@ Cada día agregaré código, explicaciones y lecciones aprendidas.
 
 ¡Sigue atento para ver más proyectos interesantes y retos resueltos en Python!
 
-## ¿Cómo Clonar y Usar este Repositorio?
 
-Si quieres seguir mi progreso o experimentar con los proyectos por tu cuenta, puedes clonar el repositorio usando el siguiente comando: 
-
-**git clone https://github.com/TuUsuario/100DaysOfCode-Python.git**
-
-Luego puedes navegar a los diferentes días y explorar el código.
 
 ## Contribuciones
 
