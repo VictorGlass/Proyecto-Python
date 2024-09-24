@@ -45,6 +45,7 @@ Mi objetivo es mejorar continuamente mis habilidades de programación y profundi
  - **Dia 20: Secuencia de Fibonacci** - Generar la secuencia Fibonacci.
  - **Dia 21: Lista Inversa** - Invertir el orden de los elementos dentro de una lista.
  - **Dia 22: Lista de Duplicados** - Eliminar elementos duplicados dentro de una lista.
+ - **Dia 23: Interseccion de Listas** - Buscando donde interceptan dos listas.
 
 ## Próximos Días
 
