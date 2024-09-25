@@ -46,6 +46,7 @@ Mi objetivo es mejorar continuamente mis habilidades de programación y profundi
  - **Dia 21: Lista Inversa** - Invertir el orden de los elementos dentro de una lista.
  - **Dia 22: Lista de Duplicados** - Eliminar elementos duplicados dentro de una lista.
  - **Dia 23: Interseccion de Listas** - Buscando donde interceptan dos listas.
+ - **Dia 24: De las palabras a la oracion** - Uniendo palabras de una lista.
 
 ## Próximos Días
 
