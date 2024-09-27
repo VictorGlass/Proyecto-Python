@@ -47,6 +47,7 @@ Mi objetivo es mejorar continuamente mis habilidades de programación y profundi
  - **Dia 22: Lista de Duplicados** - Eliminar elementos duplicados dentro de una lista.
  - **Dia 23: Interseccion de Listas** - Buscando donde interceptan dos listas.
  - **Dia 24: De las palabras a la oracion** - Uniendo palabras de una lista.
+ - **Dia 25: Frecuencia de Palabras** - Buscando cuantas veces sale una palabra especifica
 
 ## Próximos Días
 
