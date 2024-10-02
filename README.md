@@ -50,6 +50,7 @@ Mi objetivo es mejorar continuamente mis habilidades de programación y profundi
  - **Dia 25: Frecuencia de Palabras** - Buscando cuantas veces sale una palabra especifica.
  - **Dia 26: Cuerdas de Anagramas** - Comparaciones de dos cadenas.
  - **Dia 27: Palabra más larga** - Buscando la palabra ams larga de una oración.
+ - **Dia 28: Palabras Inversas** - Invirtiendo palabras de una oracion.
 
 ## Próximos Días
 
