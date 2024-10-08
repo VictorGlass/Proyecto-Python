@@ -1,0 +1,1 @@
+Este es un archivo txt para leerlo desde Python utilizando la funcion open()
