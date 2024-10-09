@@ -53,6 +53,8 @@ Mi objetivo es mejorar continuamente mis habilidades de programación y profundi
  - **Dia 28: Palabras Inversas** - Invirtiendo palabras de una oracion.
  - **Dia 29: Frecuencia de palabras** - ¿Cuántas veces aparece una palabra en una oración?.
  - **Dia 30: Ordenar una lista** - Ordenando una lista con numeros desordenados.
+ - **Dia 31: Fusionar Diccionarios** - Fusionando dos diccionarios diferentes.
+ - **Dia 32: Operaciones de archivo: Lectura** - Leyendo un archivo de texto desde Python.
 
 ## Próximos Días
 
